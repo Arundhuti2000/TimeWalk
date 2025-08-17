@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/BP_HTTPTest.uasset",
+				"D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Blueprints/BP_HTTPTest.uasset"
+			]
+		}
+	]
+}
