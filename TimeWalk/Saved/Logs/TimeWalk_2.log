@@ -2088,3 +2088,812 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.08.17-15.41.48:998][280]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/8R11XSZCWDJNXRBQRDA0K497FBD6F24413308B34FD4F8C869C7E84.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/__ExternalActors__/TestLevel/A/8F/8R11XSZCWDJNXRBQRDA0K4.uasset'
 [2025.08.17-15.41.49:001][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.0 sec (total: 10.1 sec)
 [2025.08.17-15.41.49:017][280]LogFileHelpers: Saving map 'TestLevel' took 10.187
+[2025.08.17-15.53.05:582][280]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.17-15.53.05:582][280]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.17-15.53.06:909][280]LogSlate: Window 'Message' being destroyed
+[2025.08.17-15.53.06:925][280]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2025.08.17-15.53.06:926][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-15.53.06:926][280]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.08.17-15.53.06:936][280]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-15.53.06:936][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-15.53.06:936][280]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2025.08.17-15.53.06:938][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-15.53.06:947][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-15.53.06:974][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-15.53.06:977][280]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.17-15.53.06:977][280]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.08.17-15.53.06:980][280]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.08.17-15.53.06:988][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-15.53.06:998][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.08.17-15.53.07:009][280]Cmd: MAP LOAD FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.17-15.53.07:030][280]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-15.53.07:030][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-15.53.07:030][280]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TestLevel.TestLevel
+[2025.08.17-15.53.07:056][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-15.53.07:075][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.17-15.53.07:077][280]LogStreaming: Display: FlushAsyncLoading(882): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-15.53.07:096][280]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2025.08.17-15.53.07:096][280]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2025.08.17-15.53.07:097][280]LogWorldPartition: ULevel::OnLevelLoaded(TestLevel)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.17-15.53.07:097][280]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-15.53.07:097][280]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TestLevel.TestLevel, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-15.53.07:116][280]LogTexture: Display: Building textures: /Game/TestLevel.TestLevel:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture (TFO_AutoDXT VT, 2048x2048 x1x1x1) (Required Memory Estimate: 187.666666 MB), EncodeSpeed: Fast
+[2025.08.17-15.53.07:312][280]LogWorldPartition: Display: WorldPartition initialize took 215.253 ms (total: 479.580 ms)
+[2025.08.17-15.53.07:448][280]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.17-15.53.07:471][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.08.17-15.53.07:475][280]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.17-15.53.07:476][280]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.829ms to complete.
+[2025.08.17-15.53.07:560][280]LogContentValidation: Display: Starting to validate 149 assets
+[2025.08.17-15.53.07:560][280]LogContentValidation: Enabled validators:
+[2025.08.17-15.53.07:560][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.53.07:560][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.53.07:561][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.53.07:561][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.53.07:561][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.53.07:561][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.53.07:561][280]AssetCheck: /Game/TestLevel Validating asset
+[2025.08.17-15.53.07:561][280]AssetCheck: /Game/TestLevel_HLOD0_Instancing Validating asset
+[2025.08.17-15.53.07:940][280]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.17-15.53.07:946][281]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.08.17-15.53.07:980][281]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.08.17-15.53.23:308][147]LogSlate: Window 'Plugins' being destroyed
+[2025.08.17-15.53.23:315][147]LogSlate: Window 'Plugins' being destroyed
+[2025.08.17-15.54.37:030][628]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.08.17-15.54.37:038][628]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.08.17-15.54.37:066][630]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.08.17-15.54.43:994][ 46]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2025.08.17-15.54.43:994][ 46]LogContentBrowser: End creating deferred item NewInputAction
+[2025.08.17-15.54.46:888][215]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Move.IA_Move
+[2025.08.17-15.55.16:767][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-15.55.16:790][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Move] ([1] browsable assets)...
+[2025.08.17-15.55.16:790][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Move]
+[2025.08.17-15.55.16:790][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset" SILENT=true
+[2025.08.17-15.55.16:791][321]LogSavePackage: Moving output files for package: /Game/Input/IA_Move
+[2025.08.17-15.55.16:791][321]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Move77EF4ED944AC54D09057CD9A3738B871.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset'
+[2025.08.17-15.55.16:799][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.719 ms (total: 10.2 sec)
+[2025.08.17-15.55.16:831][321]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-15.55.16:831][321]LogContentValidation: Enabled validators:
+[2025.08.17-15.55.16:831][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.55.16:831][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.55.16:831][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.55.16:831][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.55.16:831][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.55.16:831][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.55.16:831][321]AssetCheck: /Game/Input/IA_Move Validating asset
+[2025.08.17-15.55.16:848][321]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.17-15.55.40:642][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-15.55.40:670][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Move] ([1] browsable assets)...
+[2025.08.17-15.55.40:670][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Move]
+[2025.08.17-15.55.40:670][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset" SILENT=true
+[2025.08.17-15.55.40:671][509]LogSavePackage: Moving output files for package: /Game/Input/IA_Move
+[2025.08.17-15.55.40:671][509]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Move1990C8AE470029945DECF88F3039C2E0.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset'
+[2025.08.17-15.55.40:678][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.541 ms (total: 10.2 sec)
+[2025.08.17-15.55.40:710][509]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-15.55.40:710][509]LogContentValidation: Enabled validators:
+[2025.08.17-15.55.40:710][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.55.40:710][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.55.40:710][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.55.40:710][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.55.40:710][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.55.40:710][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.55.40:711][509]AssetCheck: /Game/Input/IA_Move Validating asset
+[2025.08.17-15.55.41:926][582]LogSlate: Window 'IA_Move' being destroyed
+[2025.08.17-15.55.54:589][318]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.08.17-15.55.54:610][318]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.08.17-15.55.54:625][319]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.08.17-15.55.57:632][500]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Look
+[2025.08.17-15.55.57:633][500]LogContentBrowser: End creating deferred item NewInputAction
+[2025.08.17-15.56.02:044][758]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Look.IA_Look
+[2025.08.17-15.56.21:209][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-15.56.21:242][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Look] ([1] browsable assets)...
+[2025.08.17-15.56.21:242][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Look]
+[2025.08.17-15.56.21:242][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Look" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Look.uasset" SILENT=true
+[2025.08.17-15.56.21:243][272]LogSavePackage: Moving output files for package: /Game/Input/IA_Look
+[2025.08.17-15.56.21:243][272]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Look98DBC5BF4E9BFA83AE31048ACFA70C1F.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Look.uasset'
+[2025.08.17-15.56.21:251][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.697 ms (total: 10.2 sec)
+[2025.08.17-15.56.21:277][272]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-15.56.21:277][272]LogContentValidation: Enabled validators:
+[2025.08.17-15.56.21:277][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.56.21:277][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.56.21:277][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.56.21:277][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.56.21:277][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.56.21:277][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.56.21:277][272]AssetCheck: /Game/Input/IA_Look Validating asset
+[2025.08.17-15.56.21:293][272]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.17-15.56.28:447][417]LogSlate: Window 'IA_Look' being destroyed
+[2025.08.17-15.56.28:458][417]LogSlate: Window 'IA_Look' being destroyed
+[2025.08.17-15.56.37:212][920]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.08.17-15.56.37:235][920]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.08.17-15.56.37:251][921]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.08.17-15.56.40:274][103]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Jump
+[2025.08.17-15.56.40:275][103]LogContentBrowser: End creating deferred item NewInputAction
+[2025.08.17-15.56.41:574][177]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Jump.IA_Jump
+[2025.08.17-15.56.57:397][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-15.56.57:435][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Jump] ([1] browsable assets)...
+[2025.08.17-15.56.57:435][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Jump]
+[2025.08.17-15.56.57:435][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Jump" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Jump.uasset" SILENT=true
+[2025.08.17-15.56.57:436][970]LogSavePackage: Moving output files for package: /Game/Input/IA_Jump
+[2025.08.17-15.56.57:436][970]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Jump6FB7422C43D53321A5433EA8B4B9CC8E.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Jump.uasset'
+[2025.08.17-15.56.57:443][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.678 ms (total: 10.3 sec)
+[2025.08.17-15.56.57:464][970]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-15.56.57:464][970]LogContentValidation: Enabled validators:
+[2025.08.17-15.56.57:464][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.56.57:464][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.56.57:464][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.56.57:464][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.56.57:464][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.56.57:464][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.56.57:464][970]AssetCheck: /Game/Input/IA_Jump Validating asset
+[2025.08.17-15.56.57:480][970]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.17-15.57.04:099][197]LogSlate: Window 'IA_Jump' being destroyed
+[2025.08.17-15.57.04:104][197]LogSlate: Window 'IA_Jump' being destroyed
+[2025.08.17-15.57.05:474][261]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Move.IA_Move
+[2025.08.17-15.57.08:490][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-15.57.08:520][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Move] ([1] browsable assets)...
+[2025.08.17-15.57.08:520][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Move]
+[2025.08.17-15.57.08:520][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset" SILENT=true
+[2025.08.17-15.57.08:521][423]LogSavePackage: Moving output files for package: /Game/Input/IA_Move
+[2025.08.17-15.57.08:522][423]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Move5D1D03D64229418A318B6DBA6A167250.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset'
+[2025.08.17-15.57.08:529][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.514 ms (total: 10.3 sec)
+[2025.08.17-15.57.08:553][423]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-15.57.08:553][423]LogContentValidation: Enabled validators:
+[2025.08.17-15.57.08:553][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.57.08:553][423]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.57.08:553][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.57.08:553][423]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.57.08:553][423]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.57.08:553][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.57.08:553][423]AssetCheck: /Game/Input/IA_Move Validating asset
+[2025.08.17-15.57.09:460][477]LogSlate: Window 'IA_Move' being destroyed
+[2025.08.17-15.57.09:466][477]LogSlate: Window 'IA_Move' being destroyed
+[2025.08.17-15.57.23:534][151]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.08.17-15.57.23:556][151]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.08.17-15.57.23:573][152]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.08.17-15.57.28:228][432]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2025.08.17-15.57.28:229][432]LogContentBrowser: End creating deferred item NewInputAction
+[2025.08.17-15.57.29:935][529]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Interact.IA_Interact
+[2025.08.17-15.57.43:065][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-15.57.43:100][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Interact] ([1] browsable assets)...
+[2025.08.17-15.57.43:100][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Interact]
+[2025.08.17-15.57.43:100][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Interact" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Interact.uasset" SILENT=true
+[2025.08.17-15.57.43:101][ 99]LogSavePackage: Moving output files for package: /Game/Input/IA_Interact
+[2025.08.17-15.57.43:101][ 99]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Interact05478ABB45D8A054C5F56CA89463717D.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Interact.uasset'
+[2025.08.17-15.57.43:110][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.657 ms (total: 10.4 sec)
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: Enabled validators:
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.57.43:140][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.57.43:140][ 99]AssetCheck: /Game/Input/IA_Interact Validating asset
+[2025.08.17-15.57.43:157][ 99]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.17-15.57.44:259][166]LogSlate: Window 'IA_Interact' being destroyed
+[2025.08.17-15.57.44:265][166]LogSlate: Window 'IA_Interact' being destroyed
+[2025.08.17-15.58.14:979][735]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.08.17-15.58.15:001][735]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.08.17-15.58.15:023][736]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.08.17-15.58.20:860][ 87]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Default
+[2025.08.17-15.58.20:861][ 87]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.08.17-15.58.24:769][321]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2025.08.17-15.58.39:300][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-15.58.39:333][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-15.58.39:333][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-15.58.39:333][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-15.58.39:334][613]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-15.58.39:334][613]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default676FF52A487FFDD6C7E46B992E4B5842.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-15.58.39:342][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.475 ms (total: 10.4 sec)
+[2025.08.17-15.58.39:374][613]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-15.58.39:374][613]LogContentValidation: Enabled validators:
+[2025.08.17-15.58.39:374][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-15.58.39:374][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-15.58.39:374][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-15.58.39:374][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-15.58.39:374][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-15.58.39:374][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-15.58.39:374][613]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-15.58.39:391][613]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.17-16.00.00:303][812]LogPSOHitching: Encountered 350 PSO creation hitches so far (136 graphics, 214 compute). 0 of them were precached.
+[2025.08.17-16.00.51:149][850]LogEditCondition: Error: EnhancedActionKeyMapping - EditCondition attempted to use an invalid operand "SettingBehavior" (value error).
+[2025.08.17-16.06.24:988][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.08.17-16.06.24:992][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.143
+[2025.08.17-16.06.24:992][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-16.06.24:992][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-16.06.24:992][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.08.17-16.06.24:994][275]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_Default_Auto3
+[2025.08.17-16.06.24:994][275]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default_Auto3B052D03742D0D5E5A8872693DF02A80B.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto3.uasset'
+[2025.08.17-16.06.24:994][275]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.08.17-16.12.51:474][699]LogDerivedDataCache: C:/Users/arund/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.17-16.16.25:098][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.08.17-16.16.25:101][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.027
+[2025.08.17-16.16.25:101][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-16.16.25:101][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-16.16.25:101][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.08.17-16.16.25:102][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_Default_Auto4
+[2025.08.17-16.16.25:102][339]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default_Auto40E37323E4D670CBA24AAEB8E678EA633.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto4.uasset'
+[2025.08.17-16.16.25:103][339]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.08.17-16.25.26:778][965]LogUdpMessaging: Error: Socket error detected when communicating with 127.0.0.1:53727. Banning communication to that endpoint.
+[2025.08.17-16.25.27:104][965]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.08.17-16.25.29:187][970]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58250'.
+[2025.08.17-16.25.29:192][970]LogUdpMessaging: Display: Added local interface '192.168.233.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.29:192][970]LogUdpMessaging: Display: Added local interface '192.168.239.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.29:192][970]LogUdpMessaging: Display: Added local interface '134.88.128.109' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.29:192][970]LogUdpMessaging: Display: Added local interface '172.29.80.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.29:198][970]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.08.17-16.25.29:875][974]LogUdpMessaging: Error: Socket error detected when communicating with 134.88.128.154:50413. Banning communication to that endpoint.
+[2025.08.17-16.25.30:200][974]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.08.17-16.25.32:199][979]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58252'.
+[2025.08.17-16.25.32:202][979]LogUdpMessaging: Display: Added local interface '192.168.233.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.32:202][979]LogUdpMessaging: Display: Added local interface '192.168.239.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.32:202][979]LogUdpMessaging: Display: Added local interface '134.88.128.109' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.32:202][979]LogUdpMessaging: Display: Added local interface '172.29.80.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.32:207][979]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.08.17-16.25.33:211][983]LogUdpMessaging: Error: Socket error detected when communicating with 127.0.0.1:53727. Banning communication to that endpoint.
+[2025.08.17-16.25.33:211][983]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.08.17-16.25.35:208][988]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58255'.
+[2025.08.17-16.25.35:212][988]LogUdpMessaging: Display: Added local interface '192.168.233.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.35:213][988]LogUdpMessaging: Display: Added local interface '192.168.239.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.35:213][988]LogUdpMessaging: Display: Added local interface '134.88.128.109' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.35:213][988]LogUdpMessaging: Display: Added local interface '172.29.80.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-16.25.35:216][988]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.08.17-16.26.53:565][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-16.26.53:594][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-16.26.53:594][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-16.26.53:594][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-16.26.53:596][847]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-16.26.53:596][847]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default8C3CA87641C803A803B117A785B58455.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-16.26.53:603][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.284 ms (total: 10.5 sec)
+[2025.08.17-16.26.53:636][847]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-16.26.53:636][847]LogContentValidation: Enabled validators:
+[2025.08.17-16.26.53:636][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-16.26.53:636][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-16.26.53:636][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-16.26.53:636][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-16.26.53:636][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-16.26.53:636][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-16.26.53:636][847]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-16.27.05:668][547]LogPSOHitching: Encountered 400 PSO creation hitches so far (159 graphics, 241 compute). 0 of them were precached.
+[2025.08.17-16.27.38:528][ 15]LogSlate: Window 'IMC_Default' being destroyed
+[2025.08.17-16.27.40:446][126]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Move.IA_Move
+[2025.08.17-16.28.17:172][299]LogSlate: Window 'IA_Move' being destroyed
+[2025.08.17-16.28.18:751][392]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2025.08.17-16.28.59:219][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.08.17-16.28.59:224][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.055
+[2025.08.17-16.28.59:225][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Move] ([1] browsable assets)...
+[2025.08.17-16.28.59:225][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Move]
+[2025.08.17-16.28.59:225][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IA_Move_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.08.17-16.28.59:226][ 23]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Move_Auto5
+[2025.08.17-16.28.59:226][ 23]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Move_Auto513CF1BC5436EE29669649DB781EF8BBD.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IA_Move_Auto5.uasset'
+[2025.08.17-16.28.59:226][ 23]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.08.17-16.49.38:631][741]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2025.08.17-16.49.38:674][741]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.08.17-16.49.38:674][741]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{3039efea-fa5a-439f-aee9-8f3fd55bc2e3}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.08.17-16.49.38:703][741]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{3039efea-fa5a-439f-aee9-8f3fd55bc2e3}]
+[2025.08.17-16.49.38:703][741]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.08.17-16.49.38:704][741]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.08.17-16.49.39:321][743]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3039efea-fa5a-439f-aee9-8f3fd55bc2e3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=366.12
+[2025.08.17-16.49.39:321][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.08.17-16.49.39:321][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.17-16.49.39:322][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.17-17.12.51:477][535]LogDerivedDataCache: C:/Users/arund/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.17-17.15.34:867][ 17]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-17.15.34:868][ 17]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-17.15.34:886][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.08.17-17.15.34:887][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.08.17-17.15.34:887][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.08.17-17.15.35:899][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3039efea-fa5a-439f-aee9-8f3fd55bc2e3}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=717.38
+[2025.08.17-17.15.35:899][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.08.17-17.15.35:900][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.17-17.15.35:915][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.17-17.15.38:799][ 28]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.08.17-17.15.43:345][ 28]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-17.15.43:345][ 28]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-17.15.48:347][ 28]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.08.17-17.15.48:347][ 28]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-17.15.48:347][ 28]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-17.15.53:348][ 28]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.08.17-17.15.53:349][ 28]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-17.15.53:349][ 28]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-17.15.58:348][ 28]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.08.17-17.15.58:348][ 28]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-17.15.58:348][ 28]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-17.16.03:349][ 28]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.08.17-17.16.03:349][ 28]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-17.16.03:350][ 28]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-17.16.08:349][ 28]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.08.17-17.16.08:349][ 28]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-17.16.08:350][ 28]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-18.13.38:746][ 28]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.08.17-18.13.38:746][ 28]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.08.17-18.13.38:746][ 28]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [3454 Seconds] waiting for h/w. InstanceID=1
+[2025.08.17-18.13.40:075][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.08.17-18.13.40:075][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.08.17-18.13.40:075][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.08.17-18.13.40:952][ 29]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51762'.
+[2025.08.17-18.13.40:977][ 29]LogUdpMessaging: Display: Added local interface '192.168.233.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-18.13.40:977][ 29]LogUdpMessaging: Display: Added local interface '134.88.128.109' to multicast group '230.0.0.1:6666'
+[2025.08.17-18.13.40:977][ 29]LogUdpMessaging: Display: Added local interface '172.29.80.1' to multicast group '230.0.0.1:6666'
+[2025.08.17-18.13.40:984][ 29]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.08.17-18.13.41:046][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3039efea-fa5a-439f-aee9-8f3fd55bc2e3}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=609.67
+[2025.08.17-18.13.41:046][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.08.17-18.13.41:046][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.17-18.13.41:049][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.17-18.13.52:039][ 63]LogHttp: Warning: 0000018A2D12D200: request failed, libcurl error: 6 (Could not resolve hostname)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D12D200: libcurl info message cache 0 (Too old connection (3528 seconds idle), disconnect it)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D12D200: libcurl info message cache 1 (Connection 12 seems to be dead)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D12D200: libcurl info message cache 2 (shutting down connection #12)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D12D200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D12D200: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D12D200: libcurl info message cache 5 (shutting down connection #13)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D12D200 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCA9D1891-419B-9700-A2B1-54B2341E88DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f93c37ef43e84bf39ddcdaa2e8ce8488%7C5f6ff6a3c2c34608a3f20cf23b87011b%7C5fc96a26-42eb-4c66-baad-58d1762fa845&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 12.07s
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D123800: request failed, libcurl error: 6 (Could not resolve hostname)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D123800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D123800: libcurl info message cache 1 (shutting down connection #14)
+[2025.08.17-18.13.52:039][ 64]LogHttp: Warning: 0000018A2D123800 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCA9D1891-419B-9700-A2B1-54B2341E88DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f93c37ef43e84bf39ddcdaa2e8ce8488%7C5f6ff6a3c2c34608a3f20cf23b87011b%7C5fc96a26-42eb-4c66-baad-58d1762fa845&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.66s
+[2025.08.17-18.22.43:646][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.22.43:705][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.22.43:705][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.22.43:705][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.22.43:707][623]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.22.43:707][623]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default8217AC4345FC5ED3B4CC6488B34D807F.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.22.43:716][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.341 ms (total: 10.5 sec)
+[2025.08.17-18.22.43:779][623]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.22.43:779][623]LogContentValidation: Enabled validators:
+[2025.08.17-18.22.43:779][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.22.43:779][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.22.43:779][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.22.43:779][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.22.43:779][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.22.43:779][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.22.43:781][623]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.22.43:781][623]AssetCheck: Error: [AssetLog] D:\Personal Projects\TimeWalk\TimeWalk\TimeWalk\Content\Input\IMC_Default.uasset: There cannot be a null Input Modifier on a key mapping
+[2025.08.17-18.22.56:847][390]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-18.22.56:853][390]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-18.23.10:089][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.23.10:153][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.23.10:153][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.23.10:153][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.23.10:153][182]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.23.10:154][182]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_DefaultEBC5C29C4BAF4B4C95E172B0E9779B2F.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.23.10:161][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.147 ms (total: 10.6 sec)
+[2025.08.17-18.23.10:234][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.23.10:234][182]LogContentValidation: Enabled validators:
+[2025.08.17-18.23.10:234][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.23.10:234][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.23.10:234][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.23.10:234][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.23.10:234][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.23.10:234][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.23.10:234][182]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.23.10:234][182]AssetCheck: Error: [AssetLog] D:\Personal Projects\TimeWalk\TimeWalk\TimeWalk\Content\Input\IMC_Default.uasset: There cannot be a null Input Modifier on a key mapping
+[2025.08.17-18.23.18:299][652]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-18.23.18:307][652]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-18.23.34:120][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.23.34:196][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.23.34:197][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.23.34:197][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.23.34:198][599]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.23.34:198][599]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_DefaultCE687B024EBF37C43594BDB1AC91160C.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.23.34:206][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.795 ms (total: 10.7 sec)
+[2025.08.17-18.23.34:273][599]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.23.34:273][599]LogContentValidation: Enabled validators:
+[2025.08.17-18.23.34:273][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.23.34:273][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.23.34:273][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.23.34:273][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.23.34:273][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.23.34:273][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.23.34:273][599]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.23.46:129][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.23.46:198][974]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.23.46:198][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.23.46:198][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.23.46:199][974]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.23.46:199][974]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default79701FF5427E2D83C41F53AA0595429A.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.23.46:209][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.274 ms (total: 10.8 sec)
+[2025.08.17-18.23.46:279][974]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.23.46:279][974]LogContentValidation: Enabled validators:
+[2025.08.17-18.23.46:279][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.23.46:279][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.23.46:279][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.23.46:279][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.23.46:279][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.23.46:279][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.23.46:279][974]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.24.09:325][341]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-18.24.09:333][341]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-18.24.10:114][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.24.10:180][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.24.10:181][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.24.10:181][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.24.10:181][388]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.24.10:182][388]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default704E33E44BF6355F8B28E19C178BCF82.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.24.10:188][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.817 ms (total: 10.8 sec)
+[2025.08.17-18.24.10:261][388]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.24.10:261][388]LogContentValidation: Enabled validators:
+[2025.08.17-18.24.10:261][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.24.10:261][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.24.10:261][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.24.10:261][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.24.10:261][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.24.10:261][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.24.10:261][388]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.24.11:667][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.24.11:728][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.24.11:728][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.24.11:728][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.24.11:729][472]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.24.11:729][472]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default8F19E9A54B260899261384962015AA3E.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.24.11:737][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.602 ms (total: 10.9 sec)
+[2025.08.17-18.24.11:811][472]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.24.11:811][472]LogContentValidation: Enabled validators:
+[2025.08.17-18.24.11:811][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.24.11:811][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.24.11:811][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.24.11:811][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.24.11:812][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.24.11:812][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.24.11:812][472]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.24.11:996][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.24.12:054][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.24.12:054][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.24.12:054][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.24.12:055][483]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.24.12:056][483]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default558294324CA4FD30BBE0BF870B181B86.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.24.12:063][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.375 ms (total: 11.0 sec)
+[2025.08.17-18.24.12:139][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.24.12:139][483]LogContentValidation: Enabled validators:
+[2025.08.17-18.24.12:139][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.24.12:139][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.24.12:139][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.24.12:139][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.24.12:139][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.24.12:139][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.24.12:139][483]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.24.12:933][529]LogSlate: Window 'IMC_Default' being destroyed
+[2025.08.17-18.24.41:324][723]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2025.08.17-18.28.13:143][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.28.13:215][811]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.28.13:216][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.28.13:216][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.28.13:217][811]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.28.13:217][811]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_DefaultFF3D0C9A4C615C07D5FBEB9682255A87.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.28.13:225][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.260 ms (total: 11.1 sec)
+[2025.08.17-18.28.13:299][811]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.28.13:299][811]LogContentValidation: Enabled validators:
+[2025.08.17-18.28.13:299][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.28.13:299][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.28.13:299][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.28.13:299][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.28.13:299][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.28.13:299][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.28.13:299][811]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.30.23:350][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.08.17-18.30.23:357][652]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.045
+[2025.08.17-18.30.23:358][652]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.30.23:358][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.30.23:358][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.08.17-18.30.23:359][652]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_Default_Auto6
+[2025.08.17-18.30.23:359][652]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default_Auto60EB5B7874636A88B73DAFABB6EA17502.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto6.uasset'
+[2025.08.17-18.30.23:359][652]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.08.17-18.30.55:166][654]LogPSOHitching: Encountered 450 PSO creation hitches so far (181 graphics, 269 compute). 0 of them were precached.
+[2025.08.17-18.40.23:791][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.08.17-18.40.23:796][499]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.027
+[2025.08.17-18.40.23:796][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.40.23:796][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.40.23:796][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.08.17-18.40.23:798][499]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_Default_Auto7
+[2025.08.17-18.40.23:798][499]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default_Auto7A76C5C1D46E3D5F6D17455BE7A7FB981.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Input/IMC_Default_Auto7.uasset'
+[2025.08.17-18.40.23:798][499]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.08.17-18.42.54:214][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.42.54:281][308]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.42.54:281][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.42.54:281][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.42.54:282][308]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.42.54:283][308]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default46B03CE04DB87C40B037CEA20CE252F7.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.42.54:291][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.426 ms (total: 11.1 sec)
+[2025.08.17-18.42.54:362][308]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.42.54:362][308]LogContentValidation: Enabled validators:
+[2025.08.17-18.42.54:362][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.42.54:362][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.42.54:362][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.42.54:363][308]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.42.54:363][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.42.54:363][308]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.42.54:363][308]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.44.08:631][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.44.08:708][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.44.08:708][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.44.08:708][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.44.08:709][390]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.44.08:709][390]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_Default563ACD0A46CA1E8D3E129293B2F1F213.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.44.08:719][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.337 ms (total: 11.2 sec)
+[2025.08.17-18.44.08:786][390]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.44.08:786][390]LogContentValidation: Enabled validators:
+[2025.08.17-18.44.08:786][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.44.08:786][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.44.08:786][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.44.08:786][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.44.08:786][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.44.08:786][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.44.08:786][390]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.46.25:735][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-18.46.25:804][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.17-18.46.25:805][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.17-18.46.25:805][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.17-18.46.25:806][927]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.17-18.46.25:806][927]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IMC_DefaultE740CCBE4A9510CFC908C299B2C5E73D.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IMC_Default.uasset'
+[2025.08.17-18.46.25:814][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.964 ms (total: 11.3 sec)
+[2025.08.17-18.46.25:875][927]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-18.46.25:875][927]LogContentValidation: Enabled validators:
+[2025.08.17-18.46.25:875][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-18.46.25:875][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-18.46.25:875][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-18.46.25:875][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-18.46.25:875][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-18.46.25:875][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-18.46.25:875][927]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.08.17-18.46.27:476][ 23]LogSlate: Window 'IMC_Default' being destroyed
+[2025.08.17-18.46.27:482][ 23]LogSlate: Window 'IMC_Default' being destroyed
+[2025.08.17-18.51.23:669][740]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.17-18.51.23:677][740]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.17-18.51.23:684][740]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.17-18.51.23:711][742]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.17-18.51.39:089][128]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ThirdPersonCharacter
+[2025.08.17-18.51.39:102][128]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.17-18.51.43:937][218]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.08.17-18.51.43:938][218]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.17-18.54.31:805][142]LogStreaming: Display: FlushAsyncLoading(1024): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: ================================================
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: Total job queries 573, among them cache hits 171 (29.84%), DDC hits 325 (56.72%), Duplicates 76 (13.26%)
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: Tracking 326 distinct input hashes that result in 223 distinct outputs (68.40%)
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: RAM used: 3.20 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.08.17-18.55.40:803][435]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 0.82 s
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Job life time (pending + execution): average 0.82 s, max 0.82
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Shader code size: total 8.145 KiB, numShaders 1, average 8.145 KiB, min 8.145 KiB, max 8.145 KiB
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.82 s
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Average processing rate: 1.21 jobs/sec
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Total thread time: 0.36 s
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Total thread preprocess time: 7.311 s
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Percentage time preprocessing: 2032.99%
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.054617
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: === Material stats ===
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Materials Translated:    144
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: Material Cache Hits: 15 (10%)
+[2025.08.17-18.55.40:804][435]LogShaderCompilers: Display: ================================================
+[2025.08.17-18.56.54:412][999]LogSlate: Took 0.000988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.08.17-19.01.24:012][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.08.17-19.01.24:018][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.080
+[2025.08.17-19.01.24:019][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.01.24:019][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.01.24:023][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto8
+[2025.08.17-19.01.24:023][145]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter_Auto8E10ACC6A456AA2DDFEBBDFA6C662367D.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto8.uasset'
+[2025.08.17-19.01.24:023][145]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.08.17-19.01.46:305][212]LogPSOHitching: Encountered 500 PSO creation hitches so far (203 graphics, 297 compute). 0 of them were precached.
+[2025.08.17-19.04.17:472][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-19.04.17:539][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.04.17:539][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.04.17:544][501]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ThirdPersonCharacter
+[2025.08.17-19.04.17:544][501]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacterDF20CF8948637CFD6ACF27B30566A5DB.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Blueprints/Characters/BP_ThirdPersonCharacter.uasset'
+[2025.08.17-19.04.17:554][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.727 ms (total: 11.4 sec)
+[2025.08.17-19.04.17:627][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-19.04.17:627][501]LogContentValidation: Enabled validators:
+[2025.08.17-19.04.17:627][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-19.04.17:627][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-19.04.17:627][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-19.04.17:627][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-19.04.17:627][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-19.04.17:627][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-19.04.17:628][501]AssetCheck: /Game/Blueprints/Characters/BP_ThirdPersonCharacter Validating asset
+[2025.08.17-19.04.17:647][501]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.17-19.04.20:578][676]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.08.17-19.04.20:590][676]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-19.04.20:590][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-19.04.20:636][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.08.17-19.04.31:418][988]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.08.17-19.04.31:419][988]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.17-19.10.16:872][835]LogDerivedDataCache: C:/Users/arund/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.17-19.12.52:735][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.17-19.12.52:738][665]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.040
+[2025.08.17-19.12.52:738][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.12.52:738][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.12.52:744][665]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto9
+[2025.08.17-19.12.52:744][665]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter_Auto96DC811E645E353C5FE65AFA2AA9B41A7.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto9.uasset'
+[2025.08.17-19.12.52:745][665]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.08.17-19.18.34:188][294]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.17-19.18.34:188][294]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.17-19.20.07:394][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-19.20.07:460][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.20.07:460][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.20.07:465][660]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ThirdPersonCharacter
+[2025.08.17-19.20.07:466][660]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter99AE3955467B6D9CB3B1DABC0DF58940.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Blueprints/Characters/BP_ThirdPersonCharacter.uasset'
+[2025.08.17-19.20.07:474][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.924 ms (total: 11.5 sec)
+[2025.08.17-19.20.07:543][660]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-19.20.07:543][660]LogContentValidation: Enabled validators:
+[2025.08.17-19.20.07:543][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-19.20.07:543][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-19.20.07:543][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-19.20.07:543][660]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-19.20.07:543][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-19.20.07:543][660]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-19.20.07:543][660]AssetCheck: /Game/Blueprints/Characters/BP_ThirdPersonCharacter Validating asset
+[2025.08.17-19.20.09:782][774]LogPSOHitching: Encountered 550 PSO creation hitches so far (225 graphics, 325 compute). 0 of them were precached.
+[2025.08.17-19.23.21:081][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.17-19.23.21:083][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.032
+[2025.08.17-19.23.21:084][348]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.23.21:084][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.23.21:089][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto0
+[2025.08.17-19.23.21:089][348]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter_Auto09890DB504364379492D6B8B323284F86.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto0.uasset'
+[2025.08.17-19.23.21:089][348]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.08.17-19.24.13:118][535]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.17-19.24.13:118][535]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.17-19.26.49:388][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-19.26.50:785][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.26.50:785][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.26.50:791][908]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ThirdPersonCharacter
+[2025.08.17-19.26.50:792][908]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter9442E52C47F440B877FB949CDB96BD33.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Blueprints/Characters/BP_ThirdPersonCharacter.uasset'
+[2025.08.17-19.26.51:385][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.99 sec (total: 13.5 sec)
+[2025.08.17-19.26.51:785][908]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-19.26.51:785][908]LogContentValidation: Enabled validators:
+[2025.08.17-19.26.51:785][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-19.26.51:785][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-19.26.51:785][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-19.26.51:785][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-19.26.51:785][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-19.26.51:786][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-19.26.51:786][908]AssetCheck: /Game/Blueprints/Characters/BP_ThirdPersonCharacter Validating asset
+[2025.08.17-19.29.11:082][260]LogBlueprint: Error: [AssetLog] D:\Personal Projects\TimeWalk\TimeWalk\TimeWalk\Content\Blueprints\Characters\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a EnhancedInputSubsystemInterface, therefore ' Target ' must have a connection.
+[2025.08.17-19.29.11:130][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.08.17-19.35.19:756][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.17-19.35.19:758][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.027
+[2025.08.17-19.35.20:817][181]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.35.21:539][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.35.50:298][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto1
+[2025.08.17-19.35.50:298][181]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter_Auto1416C24BE4E53884B34DE36AB1A146865.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto1.uasset'
+[2025.08.17-19.35.55:731][181]LogFileHelpers: Auto-saving content packages took 35.637
+[2025.08.17-19.47.44:698][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.17-19.47.44:702][130]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.028
+[2025.08.17-19.47.44:702][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.47.44:702][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.47.44:710][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto2
+[2025.08.17-19.47.44:710][130]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter_Auto2973284FC43D3DF9BE11F4A9FB8AC351B.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/Autosaves/Game/Blueprints/Characters/BP_ThirdPersonCharacter_Auto2.uasset'
+[2025.08.17-19.47.44:710][130]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.08.17-19.54.00:990][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-19.54.01:051][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.17-19.54.01:051][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ThirdPersonCharacter]
+[2025.08.17-19.54.01:059][699]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ThirdPersonCharacter
+[2025.08.17-19.54.01:059][699]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/BP_ThirdPersonCharacter34A22C614BCC1581CDDC5D93F7908DAF.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Blueprints/Characters/BP_ThirdPersonCharacter.uasset'
+[2025.08.17-19.54.01:066][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.656 ms (total: 13.5 sec)
+[2025.08.17-19.54.01:139][699]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-19.54.01:139][699]LogContentValidation: Enabled validators:
+[2025.08.17-19.54.01:139][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-19.54.01:139][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-19.54.01:140][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-19.54.01:140][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-19.54.01:140][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-19.54.01:140][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-19.54.01:140][699]AssetCheck: /Game/Blueprints/Characters/BP_ThirdPersonCharacter Validating asset
+[2025.08.17-19.54.01:961][748]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.08.17-19.54.01:966][748]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.08.17-19.54.01:969][748]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-19.54.01:969][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-19.54.02:026][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.17-19.54.02:871][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.17-19.54.05:481][780]LogSlate: Window 'Save Content' being destroyed
+[2025.08.17-19.54.05:491][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-19.54.05:578][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Move] ([1] browsable assets)...
+[2025.08.17-19.54.05:578][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Move]
+[2025.08.17-19.54.05:578][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset" SILENT=true
+[2025.08.17-19.54.05:579][780]LogSavePackage: Moving output files for package: /Game/Input/IA_Move
+[2025.08.17-19.54.05:580][780]LogSavePackage: Moving 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Saved/IA_Move3FE3C98A4D1454FA4C95D19EBB416E69.tmp' to 'D:/Personal Projects/TimeWalk/TimeWalk/TimeWalk/Content/Input/IA_Move.uasset'
+[2025.08.17-19.54.05:586][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.240 ms (total: 13.6 sec)
+[2025.08.17-19.54.05:609][780]LogStall: Shutdown...
+[2025.08.17-19.54.05:609][780]LogStall: Shutdown complete.
+[2025.08.17-19.54.05:628][780]LogSlate: Window 'TimeWalk - Unreal Editor' being destroyed
+[2025.08.17-19.54.05:629][780]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.17-19.54.06:015][780]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-19.54.06:016][780]LogContentValidation: Enabled validators:
+[2025.08.17-19.54.06:016][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-19.54.06:016][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-19.54.06:016][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-19.54.06:016][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-19.54.06:016][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-19.54.06:016][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-19.54.06:016][780]AssetCheck: /Game/Input/IA_Move Validating asset
+[2025.08.17-19.54.06:020][780]Cmd: QUIT_EDITOR
+[2025.08.17-19.54.06:020][781]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.08.17-19.54.06:023][781]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.08.17-19.54.06:024][781]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.08.17-19.54.06:024][781]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.08.17-19.54.06:048][781]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-19.54.06:049][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-19.54.06:049][781]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TestLevel.TestLevel
+[2025.08.17-19.54.06:058][781]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.08.17-19.54.06:058][781]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.08.17-19.54.06:061][781]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.08.17-19.54.06:095][781]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.08.17-19.54.06:095][781]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.08.17-19.54.06:098][781]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.08.17-19.54.06:808][781]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.08.17-19.54.06:809][781]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.08.17-19.54.06:809][781]LogAudio: Display: Audio Device unregistered from world 'TestLevel'.
+[2025.08.17-19.54.06:809][781]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.08.17-19.54.06:810][781]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.08.17-19.54.06:810][781]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.08.17-19.54.06:822][781]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.08.17-19.54.06:823][781]LogAudio: Display: Audio Device Manager Shutdown
+[2025.08.17-19.54.06:828][781]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.08.17-19.54.06:830][781]LogExit: Preparing to exit.
+[2025.08.17-19.54.06:916][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.08.17-19.54.06:935][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:935][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.06:936][781]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-19.54.07:350][781]LogEditorDataStorage: Deinitializing
+[2025.08.17-19.54.07:560][781]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.17-19.54.07:602][781]LogExit: Editor shut down
+[2025.08.17-19.54.07:613][781]LogExit: Transaction tracking system shut down
+[2025.08.17-19.54.08:045][781]LogExit: Object subsystem successfully closed.
+[2025.08.17-19.54.08:144][781]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.08.17-19.54.08:304][781]LogMemoryProfiler: Shutdown
+[2025.08.17-19.54.08:305][781]LogNetworkingProfiler: Shutdown
+[2025.08.17-19.54.08:305][781]LoadingProfiler: Shutdown
+[2025.08.17-19.54.08:305][781]LogTimingProfiler: Shutdown
+[2025.08.17-19.54.08:308][781]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.08.17-19.54.08:308][781]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.08.17-19.54.08:743][781]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.08.17-19.54.08:751][781]LogNFORDenoise: NFORDenoise function shutting down
+[2025.08.17-19.54.08:752][781]RenderDocPlugin: plugin has been unloaded.
+[2025.08.17-19.54.08:791][781]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.08.17-19.54.08:791][781]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCA9D1891-419B-9700-A2B1-54B2341E88DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f93c37ef43e84bf39ddcdaa2e8ce8488%7C5f6ff6a3c2c34608a3f20cf23b87011b%7C5fc96a26-42eb-4c66-baad-58d1762fa845&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.08.17-19.54.08:804][781]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.08.17-19.54.08:810][781]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.08.17-19.54.08:810][781]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.08.17-19.54.08:810][781]LogPakFile: Destroying PakPlatformFile
+[2025.08.17-19.54.11:406][781]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.17-19.54.11:498][781]LogExit: Exiting.
+[2025.08.17-19.54.11:525][781]Log file closed, 08/17/25 15:54:11
