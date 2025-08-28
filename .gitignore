@@ -73,3 +73,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Intermediate/
+DerivedDataCache/
+Saved/Autosaves/
+Saved/Backup/
+Saved/Logs/
+Saved/Config/CrashReportClient/
+Saved/Config/UserGameSettings.ini
+Saved/Config/UserInput.ini
+Saved/Config/UserLightmass.ini
+Saved/Screenshots/
