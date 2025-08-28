@@ -1,0 +1,67 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.11.2023 20:18:55
+
+newmtl Material__490
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_208.jpg
+	map_Kd C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_208.jpg
+	map_d C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_209.jpg
+	map_bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_208.jpg
+	bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_208.jpg
+
+newmtl Material__489
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_207.jpg
+	map_Kd C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_207.jpg
+	map_bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_207.jpg
+	bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_207.jpg
+
+newmtl Material__491
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_210.jpg
+	map_Kd C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_210.jpg
+	map_bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_210.jpg
+	bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_210.jpg
+
+newmtl Material__342
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_091.jpg
+	map_Kd C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_091.jpg
+	map_bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_091.jpg
+	bump C:\Users\novin\Desktop\Menar-2-0024-3DWing.ir\Menar-2-0024-3DWing.ir\CH_091.jpg

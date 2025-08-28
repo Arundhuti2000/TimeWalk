@@ -1,0 +1,38 @@
+{
+  "template_version": "1.0",
+  "character_template": {
+    "name": "string - Internal character identifier",
+    "display_name": "string - Full name shown to players",
+    "era": "string - Historical time period",
+    "birth_death": "string - Birth and death years",
+    "location": "string - Primary geographical location",
+    "occupation": "string - Main profession or role",
+    "personality_traits": [
+      "array of strings - Key personality characteristics that define behavior"
+    ],
+    "knowledge_areas": [
+      "array of strings - Topics the character is knowledgeable about"
+    ],
+    "knowledge_limitations": [
+      "array of strings - Things they wouldn't know (future events, distant places, etc.)"
+    ],
+    "speech_patterns": "string - How they communicate, language style, typical expressions",
+    "historical_context": "string - Important background about their time and circumstances",
+    "relationships": {
+      "character_id": {
+        "relationship_type": "string - nature of relationship",
+        "description": "string - details about their connection"
+      }
+    },
+    "key_beliefs": [
+      "array of strings - Core philosophical, religious, or political convictions"
+    ],
+    "famous_quotes": ["array of strings - Known sayings or memorable phrases"],
+    "teaching_topics": [
+      "array of strings - Educational concepts this character can explain"
+    ],
+    "conversation_starters": [
+      "array of strings - Natural ways to begin conversations with this character"
+    ]
+  }
+}
