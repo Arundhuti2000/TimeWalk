@@ -20,11 +20,11 @@ Master's thesis project: An interactive historical education game with AI-powere
 
 🚧 In Development - Sprint 1: Foundation
 
-## Git LFS Setup
+## Git LFS Setup:
 
 This project uses Git Large File Storage (LFS) to handle large binary assets efficiently.
 
-### First-time Setup
+### First-time Setup:
 
 ```bash
 # Install Git LFS (if not already installed)
